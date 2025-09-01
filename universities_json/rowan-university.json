@@ -1,0 +1,35 @@
+[
+  {
+    "University": "Rowan University",
+    "Faculty": "Guimu Guo",
+    "Research Interests": "Data Mining (Graph), Parallel Computing, GPGPU",
+    "Notes": "2025 Spring/Fall",
+    "Homepage": "https://guimuguo.github.io/",
+    "Positions": "1-2 PhDs with RA/TA",
+    "Requirements": "TOEFL or IELTS, no GRE",
+    "How to Reach out": "Email",
+    "@": "CV, Transcript"
+  },
+  {
+    "University": "Rowan University",
+    "Faculty": "Sihan Yu",
+    "Research Interests": "IoT, Network Security, Mobile Computing, Wireless Communication, AI",
+    "Notes": "26 Spring/Fall",
+    "Homepage": "https://csm.rowan.edu/departments/cs/facultystaff/compsci_full_part/yu.html",
+    "Positions": "1-2 PhDs",
+    "Requirements": "",
+    "How to Reach out": "Email",
+    "@": "CV, Transcript"
+  },
+  {
+    "University": "Rowan University",
+    "Faculty": "Xiajun Jiang",
+    "Research Interests": "Adaptive AI, physics-informed deep learning, AI in health care",
+    "Notes": "26 Spring / Fall",
+    "Homepage": "https://john-x-jiang.github.io/",
+    "Positions": "1 PhD with TA",
+    "Requirements": "TOEFL or IETLS, GRE optional",
+    "How to Reach out": "Email",
+    "@": "CV, Transcript"
+  }
+]

@@ -1,0 +1,112 @@
+[
+  {
+    "University": "Arizona State University",
+    "Faculty": "Hua Wei",
+    "Research Interests": "Reinforcement Learning, LLM Reasoning, Urban Data Mining",
+    "Notes": "26 Fall",
+    "Homepage": "https://labs.engineering.asu.edu/hw/",
+    "Positions": "1-2 PhDs with RA, Interns",
+    "Requirements": "TOEFL/IELTS/Duolingo, no GRE",
+    "How to Reach out": "Email",
+    "@": ""
+  },
+  {
+    "University": "Arizona State University",
+    "Faculty": "Xiyang Hu",
+    "Research Interests": "ML, LLM, Trustworthy, HCI",
+    "Notes": "26 Fall",
+    "Homepage": "https://xiyanghu.github.io/",
+    "Positions": "PhDs, Interns",
+    "Requirements": "",
+    "How to Reach out": "Email",
+    "@": ""
+  },
+  {
+    "University": "Arizona State University",
+    "Faculty": "Chenkai Weng",
+    "Research Interests": "Cryptography, computer security and privacy",
+    "Notes": "2025 Fall",
+    "Homepage": "https://ckweng.github.io/",
+    "Positions": "2 PhDs with RA",
+    "Requirements": "TOEFL/IETLS",
+    "How to Reach out": "Email",
+    "@": ""
+  },
+  {
+    "University": "Arizona State University",
+    "Faculty": "Wanxin Jin",
+    "Research Interests": "Robotics, robot learning, manipulation, human-robot interaction, control",
+    "Notes": "25 Spring/Fall",
+    "Homepage": "https://asu-iris.github.io/",
+    "Positions": "1PhD",
+    "Requirements": "TOEFL or IELTS, no GRE if you have publications",
+    "How to Reach out": "Email",
+    "@": ""
+  },
+  {
+    "University": "Arizona State University",
+    "Faculty": "Qiaoning Zhang",
+    "Research Interests": "Human-AI Collaboration, Human-Robot Interaction, and User Experience (UX) Design.",
+    "Notes": "2025 Fall",
+    "Homepage": "https://qiaoning-zhang.github.io/",
+    "Positions": "1-2 PhDs with RA",
+    "Requirements": "",
+    "How to Reach out": "Email",
+    "@": ""
+  },
+  {
+    "University": "Arizona State University",
+    "Faculty": "Jiaqi Gu",
+    "Research Interests": "(1) Efficient AI, AI system, model compression; (2) Electronic design automation (EDA), ML for EDA; (3) Photonic computing and interconnect system; Hardware/algorithm Co-Design; AI for Physics;",
+    "Notes": "2026 Spring/Fall",
+    "Homepage": "https://scopex-asu.github.io/",
+    "Positions": "2 PhDs, interns",
+    "Requirements": "TOEFL, no GRE requirement",
+    "How to Reach out": "Email",
+    "@": "CV, Transcript, Research Interest"
+  },
+  {
+    "University": "Arizona State University",
+    "Faculty": "Zhichao Cao",
+    "Research Interests": "Data System with AI/ML optimizations and System for LLMs (offloading, caching, dedup)",
+    "Notes": "2026 Fall",
+    "Homepage": "https://search.asu.edu/profile/4082902",
+    "Positions": "1 Ph.D. with RA, multiple remote interns",
+    "Requirements": "",
+    "How to Reach out": "Email",
+    "@": ""
+  },
+  {
+    "University": "Arizona State University",
+    "Faculty": "Yixuan He",
+    "Research Interests": "ML, Graph Neural Networks",
+    "Notes": "26 Fall",
+    "Homepage": "https://sherylhyx.github.io/",
+    "Positions": "PhD",
+    "Requirements": "depends on the program (CS/Stats/Maths/DS/Applied Maths)",
+    "How to Reach out": "Email",
+    "@": "CV, Transcript, Research Interest"
+  },
+  {
+    "University": "Arizona State University",
+    "Faculty": "Jeff Zhang",
+    "Research Interests": "Computer Architecture; AI Hardware and Systems; ML for System; EDA",
+    "Notes": "26 Spring, 26 Fall",
+    "Homepage": "https://search.asu.edu/profile/4346755",
+    "Positions": "PhDs",
+    "Requirements": "",
+    "How to Reach out": "Email",
+    "@": ""
+  },
+  {
+    "University": "Arizona State University",
+    "Faculty": "Jia Zou",
+    "Research Interests": "Database Systems for AI/ML (including LLM inferences) and Privacy",
+    "Notes": "25 Fall, 26 Spring, 26 Fall",
+    "Homepage": "https://sites.google.com/view/jiazou-web/home",
+    "Positions": "1 Ph.D RA in 26 fall and Multiple Intern Poistions",
+    "Requirements": "",
+    "How to Reach out": "Email",
+    "@": ""
+  }
+]

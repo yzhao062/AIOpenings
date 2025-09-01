@@ -1,0 +1,35 @@
+[
+  {
+    "University": "Rutgers University",
+    "Faculty": "Chengzhi Mao",
+    "Research Interests": "Computer Vision, Large Language Model, Interpretable Machine Learning, Robotics",
+    "Notes": "25 Fall",
+    "Homepage": "",
+    "Positions": "Multiple PhDs",
+    "Requirements": "",
+    "How to Reach out": "Email",
+    "@": ""
+  },
+  {
+    "University": "Rutgers University",
+    "Faculty": "Yifan Hu",
+    "Research Interests": "Optimization, RL, Causality",
+    "Notes": "26 Fall",
+    "Homepage": "https://sites.google.com/view/yifan-hu/home",
+    "Positions": "1-2 PhDs with RA/TA, interns",
+    "Requirements": "",
+    "How to Reach out": "Email",
+    "@": "CV, transcript, weekly hour commitments"
+  },
+  {
+    "University": "Rutgers University",
+    "Faculty": "Hao Wang",
+    "Research Interests": "Large Language Model (LLM), Bayesian Deep Learning, LLM Reasoning, Interpretable Machine Learning (ML), ML for Healthcare",
+    "Notes": "25 Fall, 26 Spring",
+    "Homepage": "http://wanghao.in/",
+    "Positions": "PhDs/Interns",
+    "Requirements": "",
+    "How to Reach out": "Email",
+    "@": ""
+  }
+]

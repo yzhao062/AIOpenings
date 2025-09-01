@@ -1,0 +1,35 @@
+[
+  {
+    "University": "Georgia State University",
+    "Faculty": "Lipeng Wan",
+    "Research Interests": "AI for science, AI-integrated data infrastrcuture for science",
+    "Notes": "26 Spring/Fall",
+    "Homepage": "https://lwan86.github.io/",
+    "Positions": "2-3 PhDs with RA, supported by NSF grant",
+    "Requirements": "TOEFL/IELTS, no GRE",
+    "How to Reach out": "Email",
+    "@": "CV, Transcript"
+  },
+  {
+    "University": "Georgia State University",
+    "Faculty": "Huadi Zhu",
+    "Research Interests": "Cyber-physical systems, IoT, cybersecurity, immersive technology, human-centered computing",
+    "Notes": "26 Spring/Fall",
+    "Homepage": "https://huadizhu.com/",
+    "Positions": "1 PhD with RA",
+    "Requirements": "TOEFL/IELTS, no GRE",
+    "How to Reach out": "Email",
+    "@": "CV, Transcript"
+  },
+  {
+    "University": "Georgia State University",
+    "Faculty": "Ping Xu",
+    "Research Interests": "Trustworthy distributed learning, multi-agent reinforcement learning",
+    "Notes": "26 Spring/Fall",
+    "Homepage": "https://sites.google.com/view/ping-xu-gsu/home",
+    "Positions": "1 PhD with RA, 1 PhD with TA",
+    "Requirements": "TOEFL/IELTS, no GRE",
+    "How to Reach out": "Email",
+    "@": "CV, Transcript, Research Interest"
+  }
+]

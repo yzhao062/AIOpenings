@@ -1,0 +1,46 @@
+[
+  {
+    "University": "University of California, Riverside",
+    "Faculty": "Jiachen Li",
+    "Research Interests": "Robotics, Embodied AI, Human-Robot Interaction, Multi-Robot Systems, Autonomous Driving, Multi-Agent Learning, Trustworthy AI",
+    "Notes": "2026 Fall",
+    "Homepage": "https://tasl.ucr.edu/",
+    "Positions": "Multiple PhDs (Fellowship+RA), interns",
+    "Requirements": "TOEFL, no GRE requirement",
+    "How to Reach out": "Email",
+    "@": ""
+  },
+  {
+    "University": "University of California, Riverside",
+    "Faculty": "Yinglun Zhu",
+    "Research Interests": "Machine Learning, Reinforcement Learning, LLMs, Efficient Learning/Training, MLSys",
+    "Notes": "25 Spring / Fall",
+    "Homepage": "https://yinglunz.com/",
+    "Positions": "3-4 PhDs with RA/TA",
+    "Requirements": "TOEFL, no GRE requirement",
+    "How to Reach out": "Email",
+    "@": ""
+  },
+  {
+    "University": "University of California, Riverside",
+    "Faculty": "Zhouxing Shi",
+    "Research Interests": "Machine Learning, LLM, Trustworthy AI, formal verification",
+    "Notes": "26 Fall",
+    "Homepage": "https://shizhouxing.github.io/",
+    "Positions": "1-2 PhDs (Fellowship + RA/TA); interns",
+    "Requirements": "TOEFL, no GRE requirement",
+    "How to Reach out": "Email",
+    "@": "CV, Transcript, Research Interest"
+  },
+  {
+    "University": "University of California, Riverside",
+    "Faculty": "Bingyao Li",
+    "Research Interests": "Computer architecture, System, LLM",
+    "Notes": "26 Spring/Fall",
+    "Homepage": "https://libingyao.github.io/",
+    "Positions": "2 PhDs (Fellowship + RA/TA)",
+    "Requirements": "TOEFL, no GRE requirement",
+    "How to Reach out": "Email",
+    "@": "CV, Transcript, Research Interest"
+  }
+]

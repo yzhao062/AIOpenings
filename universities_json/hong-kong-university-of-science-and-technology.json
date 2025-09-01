@@ -1,0 +1,68 @@
+[
+  {
+    "University": "Hong Kong University of Science and Technology",
+    "Faculty": "May Fung",
+    "Research Interests": "NLP/ML/AI",
+    "Notes": "25 Spring/Fall",
+    "Homepage": "https://mayrfung.github.io/",
+    "Positions": "Multiple PhDs",
+    "Requirements": "TOEFL/IETLS",
+    "How to Reach out": "Email",
+    "@": "CV, Transcript, Research Interest"
+  },
+  {
+    "University": "Hong Kong University of Science and Technology",
+    "Faculty": "Xiaomin Ouyang",
+    "Research Interests": "ML for IoT, Smart Health, Mobile Sensing",
+    "Notes": "25 Spring/Fall",
+    "Homepage": "https://xmouyang.github.io/",
+    "Positions": "Multiple PhDs",
+    "Requirements": "TOEFL/IETLS",
+    "How to Reach out": "Email",
+    "@": ""
+  },
+  {
+    "University": "Hong Kong University of Science and Technology",
+    "Faculty": "Binhang Yuan",
+    "Research Interests": "ML System, LLM for Data Management",
+    "Notes": "25 Spring/Fall",
+    "Homepage": "https://binhangyuan.github.io/site/",
+    "Positions": "Multiple PhD/Mphil/RA/Intern (support gap-year research)",
+    "Requirements": "",
+    "How to Reach out": "Email",
+    "@": "CV"
+  },
+  {
+    "University": "Hong Kong University of Science and Technology",
+    "Faculty": "Zhiyao Xie",
+    "Research Interests": "ML for EDA/Chip Design, EDA, Computer Architecture",
+    "Notes": "25 Fall/26 Spring",
+    "Homepage": "https://zhiyaoxie.com/",
+    "Positions": "2-4 PhDs",
+    "Requirements": "TOEFL/IETLS",
+    "How to Reach out": "Email",
+    "@": ""
+  },
+  {
+    "University": "Hong Kong University of Science and Technology",
+    "Faculty": "Qijia Shao",
+    "Research Interests": "Mobile and ubiquitous computing, HCI; Healthcare, Education and Interaction",
+    "Notes": "25 Fall/26 Spring",
+    "Homepage": "https://qijiashao.github.io/",
+    "Positions": "Ph.D/Postdoc/Visiting",
+    "Requirements": "TOEFL/IETLS",
+    "How to Reach out": "Email",
+    "@": ""
+  },
+  {
+    "University": "Hong Kong University of Science and Technology",
+    "Faculty": "Chaojian Li",
+    "Research Interests": "Computer Architecture and Systems, Algorithm-Hardware Co-Design for LLM, 3D Intelligence",
+    "Notes": "26 Spring / Fall",
+    "Homepage": "https://sponge-lab.github.io/join.html",
+    "Positions": "2-3 PhDs with RA, multiple interns",
+    "Requirements": "TOEFL/IETLS",
+    "How to Reach out": "Email",
+    "@": "CV, Transcript, Research Interest"
+  }
+]

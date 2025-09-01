@@ -1,0 +1,46 @@
+[
+  {
+    "University": "MBZUAI",
+    "Faculty": "Xiuying Chen",
+    "Research Interests": "Trustworthy text generation, LLM-based agents, High-stakes NLP applications",
+    "Notes": "26 Spring / Fall",
+    "Homepage": "https://iriscxy.github.io/",
+    "Positions": "PhDs, masters, interns",
+    "Requirements": "",
+    "How to Reach out": "Email",
+    "@": ""
+  },
+  {
+    "University": "MBZUAI",
+    "Faculty": "Dongxia Wu",
+    "Research Interests": "Probabilistic Machine Learning, LLM trustworthiness, Spatiotemporal Modeling, AI for Healthcare/Science, Multimodal Foundation Models",
+    "Notes": "26 Fall",
+    "Homepage": "https://dongxiaw.github.io/",
+    "Positions": "Multiple PhDs, masters, RAs, 1 posdoc",
+    "Requirements": "TOEFL or IELTS, no GRE",
+    "How to Reach out": "Email",
+    "@": "CV, transcript, Research Interest, paper if applicable,"
+  },
+  {
+    "University": "MBZUAI",
+    "Faculty": "Junpei Komiyama",
+    "Research Interests": "Bandits, EconML, LLM Reasoning, Algorithmic Fairness",
+    "Notes": "26 Spring/26 Fall",
+    "Homepage": "https://sites.google.com/view/junpeikomiyama/home",
+    "Positions": "Fully-Funded Ph.D., Post-docs, RA",
+    "Requirements": "",
+    "How to Reach out": "Email",
+    "@": ""
+  },
+  {
+    "University": "MBZUAI",
+    "Faculty": "Xingxing Zuo",
+    "Research Interests": "Robotics, Embodied AI, 3D Computer Vision, Generative Model, Control,  Planning",
+    "Notes": "25 Fall/26 Fall",
+    "Homepage": "https://xingxingzuo.github.io/",
+    "Positions": "3 Fully-Funded PhD, RA",
+    "Requirements": "TOEFL or IELTS, no GRE",
+    "How to Reach out": "Email",
+    "@": "CV, transcript, Research Interest, paper if applicable,"
+  }
+]

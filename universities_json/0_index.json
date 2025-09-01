@@ -1,0 +1,642 @@
+[
+  {
+    "University": "Arizona State University",
+    "file": "universities_json\\arizona-state-university.json"
+  },
+  {
+    "University": "Auburn University",
+    "file": "universities_json\\auburn-university.json"
+  },
+  {
+    "University": "Augusta University",
+    "file": "universities_json\\augusta-university.json"
+  },
+  {
+    "University": "Binghamton University",
+    "file": "universities_json\\binghamton-university.json"
+  },
+  {
+    "University": "Boise State University",
+    "file": "universities_json\\boise-state-university.json"
+  },
+  {
+    "University": "Boston University",
+    "file": "universities_json\\boston-university.json"
+  },
+  {
+    "University": "Case Western Reserve University",
+    "file": "universities_json\\case-western-reserve-university.json"
+  },
+  {
+    "University": "Chapman University",
+    "file": "universities_json\\chapman-university.json"
+  },
+  {
+    "University": "Chinese University of Hong Kong, Shenzhen",
+    "file": "universities_json\\chinese-university-of-hong-kong-shenzhen.json"
+  },
+  {
+    "University": "City University of Hong Kong",
+    "file": "universities_json\\city-university-of-hong-kong.json"
+  },
+  {
+    "University": "Clemson University",
+    "file": "universities_json\\clemson-university.json"
+  },
+  {
+    "University": "College of William & Mary",
+    "file": "universities_json\\college-of-william-and-mary.json"
+  },
+  {
+    "University": "Columbia University",
+    "file": "universities_json\\columbia-university.json"
+  },
+  {
+    "University": "Cornell University",
+    "file": "universities_json\\cornell-university.json"
+  },
+  {
+    "University": "Dartmouth College",
+    "file": "universities_json\\dartmouth-college.json"
+  },
+  {
+    "University": "Drexel University",
+    "file": "universities_json\\drexel-university.json"
+  },
+  {
+    "University": "Duke Kunshan",
+    "file": "universities_json\\duke-kunshan.json"
+  },
+  {
+    "University": "Duke University",
+    "file": "universities_json\\duke-university.json"
+  },
+  {
+    "University": "Emory University",
+    "file": "universities_json\\emory-university.json"
+  },
+  {
+    "University": "Florida Atlantic University",
+    "file": "universities_json\\florida-atlantic-university.json"
+  },
+  {
+    "University": "Florida International University",
+    "file": "universities_json\\florida-international-university.json"
+  },
+  {
+    "University": "Florida State University",
+    "file": "universities_json\\florida-state-university.json"
+  },
+  {
+    "University": "George Mason University",
+    "file": "universities_json\\george-mason-university.json"
+  },
+  {
+    "University": "Georgia Institute of Technology",
+    "file": "universities_json\\georgia-institute-of-technology.json"
+  },
+  {
+    "University": "Georgia State University",
+    "file": "universities_json\\georgia-state-university.json"
+  },
+  {
+    "University": "Geroge Washington University",
+    "file": "universities_json\\geroge-washington-university.json"
+  },
+  {
+    "University": "Harvard University",
+    "file": "universities_json\\harvard-university.json"
+  },
+  {
+    "University": "Hong Kong Baptist University",
+    "file": "universities_json\\hong-kong-baptist-university.json"
+  },
+  {
+    "University": "Hong Kong Polytechnic University",
+    "file": "universities_json\\hong-kong-polytechnic-university.json"
+  },
+  {
+    "University": "Hong Kong University of Science and Technology",
+    "file": "universities_json\\hong-kong-university-of-science-and-technology.json"
+  },
+  {
+    "University": "Hong Kong University of Science and Technology (Guangzhou)",
+    "file": "universities_json\\hong-kong-university-of-science-and-technology-guangzhou.json"
+  },
+  {
+    "University": "Illinois Tech CS",
+    "file": "universities_json\\illinois-tech-cs.json"
+  },
+  {
+    "University": "Imperial College London",
+    "file": "universities_json\\imperial-college-london.json"
+  },
+  {
+    "University": "Indiana University Bloomington",
+    "file": "universities_json\\indiana-university-bloomington.json"
+  },
+  {
+    "University": "Iowa State University",
+    "file": "universities_json\\iowa-state-university.json"
+  },
+  {
+    "University": "Johns Hopkins University",
+    "file": "universities_json\\johns-hopkins-university.json"
+  },
+  {
+    "University": "Kansas State University",
+    "file": "universities_json\\kansas-state-university.json"
+  },
+  {
+    "University": "Kennesaw State University",
+    "file": "universities_json\\kennesaw-state-university.json"
+  },
+  {
+    "University": "King Abdullah University of Science and Technology (KAUST)",
+    "file": "universities_json\\king-abdullah-university-of-science-and-technology-kaust.json"
+  },
+  {
+    "University": "King's College London, UK",
+    "file": "universities_json\\king-s-college-london-uk.json"
+  },
+  {
+    "University": "Lehigh University",
+    "file": "universities_json\\lehigh-university.json"
+  },
+  {
+    "University": "Lehigh university",
+    "file": "universities_json\\lehigh-university.json"
+  },
+  {
+    "University": "Louisiana State University",
+    "file": "universities_json\\louisiana-state-university.json"
+  },
+  {
+    "University": "MBZUAI",
+    "file": "universities_json\\mbzuai.json"
+  },
+  {
+    "University": "Massachusetts Institute of Technology",
+    "file": "universities_json\\massachusetts-institute-of-technology.json"
+  },
+  {
+    "University": "Michigan State University",
+    "file": "universities_json\\michigan-state-university.json"
+  },
+  {
+    "University": "Michigan Technological University",
+    "file": "universities_json\\michigan-technological-university.json"
+  },
+  {
+    "University": "NC State University",
+    "file": "universities_json\\nc-state-university.json"
+  },
+  {
+    "University": "Nanyang Technological University, Singapore",
+    "file": "universities_json\\nanyang-technological-university-singapore.json"
+  },
+  {
+    "University": "National University of Singapore",
+    "file": "universities_json\\national-university-of-singapore.json"
+  },
+  {
+    "University": "New Jersey Institute of Technology",
+    "file": "universities_json\\new-jersey-institute-of-technology.json"
+  },
+  {
+    "University": "New York University",
+    "file": "universities_json\\new-york-university.json"
+  },
+  {
+    "University": "New York University - Shanghai Track",
+    "file": "universities_json\\new-york-university-shanghai-track.json"
+  },
+  {
+    "University": "North Carolina A&T State University",
+    "file": "universities_json\\north-carolina-a-and-t-state-university.json"
+  },
+  {
+    "University": "North Carolina State University",
+    "file": "universities_json\\north-carolina-state-university.json"
+  },
+  {
+    "University": "Northeastern University",
+    "file": "universities_json\\northeastern-university.json"
+  },
+  {
+    "University": "Northwestern University",
+    "file": "universities_json\\northwestern-university.json"
+  },
+  {
+    "University": "Ohio State University",
+    "file": "universities_json\\ohio-state-university.json"
+  },
+  {
+    "University": "Ohio University",
+    "file": "universities_json\\ohio-university.json"
+  },
+  {
+    "University": "Oklahoma State University",
+    "file": "universities_json\\oklahoma-state-university.json"
+  },
+  {
+    "University": "Ontario Tech University /  University of Toronto (Canada)",
+    "file": "universities_json\\ontario-tech-university-university-of-toronto-canada.json"
+  },
+  {
+    "University": "Ontario Tech University / Western University (Canada)",
+    "file": "universities_json\\ontario-tech-university-western-university-canada.json"
+  },
+  {
+    "University": "Oregon State University",
+    "file": "universities_json\\oregon-state-university.json"
+  },
+  {
+    "University": "Penn State University",
+    "file": "universities_json\\penn-state-university.json"
+  },
+  {
+    "University": "Purdue University",
+    "file": "universities_json\\purdue-university.json"
+  },
+  {
+    "University": "Rensselaer Polytechnic Institute",
+    "file": "universities_json\\rensselaer-polytechnic-institute.json"
+  },
+  {
+    "University": "Rochester Institute of Technology",
+    "file": "universities_json\\rochester-institute-of-technology.json"
+  },
+  {
+    "University": "Rowan University",
+    "file": "universities_json\\rowan-university.json"
+  },
+  {
+    "University": "Rutgers University",
+    "file": "universities_json\\rutgers-university.json"
+  },
+  {
+    "University": "SUNY Albany",
+    "file": "universities_json\\suny-albany.json"
+  },
+  {
+    "University": "Saint Louis University",
+    "file": "universities_json\\saint-louis-university.json"
+  },
+  {
+    "University": "San Diego State University",
+    "file": "universities_json\\san-diego-state-university.json"
+  },
+  {
+    "University": "Simon Fraser University",
+    "file": "universities_json\\simon-fraser-university.json"
+  },
+  {
+    "University": "Stanford University",
+    "file": "universities_json\\stanford-university.json"
+  },
+  {
+    "University": "Stevens Institute of Technology",
+    "file": "universities_json\\stevens-institute-of-technology.json"
+  },
+  {
+    "University": "Stony Brook University",
+    "file": "universities_json\\stony-brook-university.json"
+  },
+  {
+    "University": "Suny Buffalo",
+    "file": "universities_json\\suny-buffalo.json"
+  },
+  {
+    "University": "Temple University",
+    "file": "universities_json\\temple-university.json"
+  },
+  {
+    "University": "Texas A&M University",
+    "file": "universities_json\\texas-a-and-m-university.json"
+  },
+  {
+    "University": "Texas Tech University",
+    "file": "universities_json\\texas-tech-university.json"
+  },
+  {
+    "University": "The University of Hong Kong",
+    "file": "universities_json\\the-university-of-hong-kong.json"
+  },
+  {
+    "University": "Tulane University",
+    "file": "universities_json\\tulane-university.json"
+  },
+  {
+    "University": "University at Albany, SUNY",
+    "file": "universities_json\\university-at-albany-suny.json"
+  },
+  {
+    "University": "University at Buffalo",
+    "file": "universities_json\\university-at-buffalo.json"
+  },
+  {
+    "University": "University of Alabama",
+    "file": "universities_json\\university-of-alabama.json"
+  },
+  {
+    "University": "University of Alabama in Huntsville",
+    "file": "universities_json\\university-of-alabama-in-huntsville.json"
+  },
+  {
+    "University": "University of Arizona",
+    "file": "universities_json\\university-of-arizona.json"
+  },
+  {
+    "University": "University of Arkansas",
+    "file": "universities_json\\university-of-arkansas.json"
+  },
+  {
+    "University": "University of Auckland",
+    "file": "universities_json\\university-of-auckland.json"
+  },
+  {
+    "University": "University of British Columbia",
+    "file": "universities_json\\university-of-british-columbia.json"
+  },
+  {
+    "University": "University of California, Berkeley",
+    "file": "universities_json\\university-of-california-berkeley.json"
+  },
+  {
+    "University": "University of California, Davis",
+    "file": "universities_json\\university-of-california-davis.json"
+  },
+  {
+    "University": "University of California, Irvine",
+    "file": "universities_json\\university-of-california-irvine.json"
+  },
+  {
+    "University": "University of California, Los Angeles",
+    "file": "universities_json\\university-of-california-los-angeles.json"
+  },
+  {
+    "University": "University of California, Merced",
+    "file": "universities_json\\university-of-california-merced.json"
+  },
+  {
+    "University": "University of California, Riverside",
+    "file": "universities_json\\university-of-california-riverside.json"
+  },
+  {
+    "University": "University of California, San Diego",
+    "file": "universities_json\\university-of-california-san-diego.json"
+  },
+  {
+    "University": "University of California, Santa Barbara",
+    "file": "universities_json\\university-of-california-santa-barbara.json"
+  },
+  {
+    "University": "University of California, Santa Cruz",
+    "file": "universities_json\\university-of-california-santa-cruz.json"
+  },
+  {
+    "University": "University of Central Florida",
+    "file": "universities_json\\university-of-central-florida.json"
+  },
+  {
+    "University": "University of Colorado Boulder",
+    "file": "universities_json\\university-of-colorado-boulder.json"
+  },
+  {
+    "University": "University of Colorado Denver",
+    "file": "universities_json\\university-of-colorado-denver.json"
+  },
+  {
+    "University": "University of Connecticut",
+    "file": "universities_json\\university-of-connecticut.json"
+  },
+  {
+    "University": "University of Delaware",
+    "file": "universities_json\\university-of-delaware.json"
+  },
+  {
+    "University": "University of Florida",
+    "file": "universities_json\\university-of-florida.json"
+  },
+  {
+    "University": "University of Georgia",
+    "file": "universities_json\\university-of-georgia.json"
+  },
+  {
+    "University": "University of Hawaii at Manoa",
+    "file": "universities_json\\university-of-hawaii-at-manoa.json"
+  },
+  {
+    "University": "University of Hong Kong",
+    "file": "universities_json\\university-of-hong-kong.json"
+  },
+  {
+    "University": "University of Houston",
+    "file": "universities_json\\university-of-houston.json"
+  },
+  {
+    "University": "University of Illinois Chicago",
+    "file": "universities_json\\university-of-illinois-chicago.json"
+  },
+  {
+    "University": "University of Illinois Urbana-Champaign",
+    "file": "universities_json\\university-of-illinois-urbana-champaign.json"
+  },
+  {
+    "University": "University of Iowa",
+    "file": "universities_json\\university-of-iowa.json"
+  },
+  {
+    "University": "University of Louisiana at Lafayette",
+    "file": "universities_json\\university-of-louisiana-at-lafayette.json"
+  },
+  {
+    "University": "University of Macau",
+    "file": "universities_json\\university-of-macau.json"
+  },
+  {
+    "University": "University of Maine",
+    "file": "universities_json\\university-of-maine.json"
+  },
+  {
+    "University": "University of Maryland, Baltimore County",
+    "file": "universities_json\\university-of-maryland-baltimore-county.json"
+  },
+  {
+    "University": "University of Maryland, College Park",
+    "file": "universities_json\\university-of-maryland-college-park.json"
+  },
+  {
+    "University": "University of Massachusetts Amherst",
+    "file": "universities_json\\university-of-massachusetts-amherst.json"
+  },
+  {
+    "University": "University of Melbourne",
+    "file": "universities_json\\university-of-melbourne.json"
+  },
+  {
+    "University": "University of Memphis",
+    "file": "universities_json\\university-of-memphis.json"
+  },
+  {
+    "University": "University of Miami",
+    "file": "universities_json\\university-of-miami.json"
+  },
+  {
+    "University": "University of Michigan, Ann Arbor",
+    "file": "universities_json\\university-of-michigan-ann-arbor.json"
+  },
+  {
+    "University": "University of Minnesota",
+    "file": "universities_json\\university-of-minnesota.json"
+  },
+  {
+    "University": "University of Minnesota, Twin-Cities",
+    "file": "universities_json\\university-of-minnesota-twin-cities.json"
+  },
+  {
+    "University": "University of Minnesuta, Twin-Cities",
+    "file": "universities_json\\university-of-minnesuta-twin-cities.json"
+  },
+  {
+    "University": "University of North Carolina at Chapel Hill",
+    "file": "universities_json\\university-of-north-carolina-at-chapel-hill.json"
+  },
+  {
+    "University": "University of North Carolina at Charlotte",
+    "file": "universities_json\\university-of-north-carolina-at-charlotte.json"
+  },
+  {
+    "University": "University of North Texas",
+    "file": "universities_json\\university-of-north-texas.json"
+  },
+  {
+    "University": "University of Notre Dame",
+    "file": "universities_json\\university-of-notre-dame.json"
+  },
+  {
+    "University": "University of Oklahoma",
+    "file": "universities_json\\university-of-oklahoma.json"
+  },
+  {
+    "University": "University of Oregon",
+    "file": "universities_json\\university-of-oregon.json"
+  },
+  {
+    "University": "University of Pennsylvania",
+    "file": "universities_json\\university-of-pennsylvania.json"
+  },
+  {
+    "University": "University of Pittsburgh",
+    "file": "universities_json\\university-of-pittsburgh.json"
+  },
+  {
+    "University": "University of Queensland, Australia",
+    "file": "universities_json\\university-of-queensland-australia.json"
+  },
+  {
+    "University": "University of Rochester",
+    "file": "universities_json\\university-of-rochester.json"
+  },
+  {
+    "University": "University of South Florida",
+    "file": "universities_json\\university-of-south-florida.json"
+  },
+  {
+    "University": "University of Southern California",
+    "file": "universities_json\\university-of-southern-california.json"
+  },
+  {
+    "University": "University of Tennessee",
+    "file": "universities_json\\university-of-tennessee.json"
+  },
+  {
+    "University": "University of Texas Rio Grande Valley",
+    "file": "universities_json\\university-of-texas-rio-grande-valley.json"
+  },
+  {
+    "University": "University of Texas at Arlington",
+    "file": "universities_json\\university-of-texas-at-arlington.json"
+  },
+  {
+    "University": "University of Texas at Austin",
+    "file": "universities_json\\university-of-texas-at-austin.json"
+  },
+  {
+    "University": "University of Texas at Dallas",
+    "file": "universities_json\\university-of-texas-at-dallas.json"
+  },
+  {
+    "University": "University of Texas at Southwestern Medical Center",
+    "file": "universities_json\\university-of-texas-at-southwestern-medical-center.json"
+  },
+  {
+    "University": "University of Utah",
+    "file": "universities_json\\university-of-utah.json"
+  },
+  {
+    "University": "University of Virgina",
+    "file": "universities_json\\university-of-virgina.json"
+  },
+  {
+    "University": "University of Virginia",
+    "file": "universities_json\\university-of-virginia.json"
+  },
+  {
+    "University": "University of Washington",
+    "file": "universities_json\\university-of-washington.json"
+  },
+  {
+    "University": "University of Waterloo",
+    "file": "universities_json\\university-of-waterloo.json"
+  },
+  {
+    "University": "University of Wisconsin, Madison",
+    "file": "universities_json\\university-of-wisconsin-madison.json"
+  },
+  {
+    "University": "Utah State University",
+    "file": "universities_json\\utah-state-university.json"
+  },
+  {
+    "University": "Villanova University",
+    "file": "universities_json\\villanova-university.json"
+  },
+  {
+    "University": "Virginia Tech",
+    "file": "universities_json\\virginia-tech.json"
+  },
+  {
+    "University": "Vrije Universiteit Amsterdam",
+    "file": "universities_json\\vrije-universiteit-amsterdam.json"
+  },
+  {
+    "University": "Washington State University",
+    "file": "universities_json\\washington-state-university.json"
+  },
+  {
+    "University": "Washington State University, Tri-cities",
+    "file": "universities_json\\washington-state-university-tri-cities.json"
+  },
+  {
+    "University": "William and Mary",
+    "file": "universities_json\\william-and-mary.json"
+  },
+  {
+    "University": "Xi’an Jiaotong-Liverpool University, China",
+    "file": "universities_json\\xi-an-jiaotong-liverpool-university-china.json"
+  },
+  {
+    "University": "Yale University",
+    "file": "universities_json\\yale-university.json"
+  },
+  {
+    "University": "Yeshiva University",
+    "file": "universities_json\\yeshiva-university.json"
+  },
+  {
+    "University": "Zhejiang University",
+    "file": "universities_json\\zhejiang-university.json"
+  }
+]

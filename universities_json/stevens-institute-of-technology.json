@@ -1,0 +1,57 @@
+[
+  {
+    "University": "Stevens Institute of Technology",
+    "Faculty": "Shaoyi Huang",
+    "Research Interests": "Efficient AI, ML system, ML for EDA",
+    "Notes": "2026 Fall",
+    "Homepage": "https://www.shaoyihuang.com/",
+    "Positions": "1 PhD (Fellowship+RA/TA), Multiple interns",
+    "Requirements": "TOEFL/IELTS/Duolingo, GRE required",
+    "How to Reach out": "Email",
+    "@": ""
+  },
+  {
+    "University": "Stevens Institute of Technology",
+    "Faculty": "Hao Wang",
+    "Research Interests": "LLM Systems (Inference, MoE, RAG), Serverless Computing, Federated Learning",
+    "Notes": "25 Spring / Fall",
+    "Homepage": "https://intellisys.haow.ca/haowang/",
+    "Positions": "2-3 PhDs (Fellowship+RA/TA)",
+    "Requirements": "TOEFL or IELTS, no GRE",
+    "How to Reach out": "Email",
+    "@": "CV, Transcript"
+  },
+  {
+    "University": "Stevens Institute of Technology",
+    "Faculty": "Zining Zhu",
+    "Research Interests": "NLP, Explainable AI",
+    "Notes": "25 Fall",
+    "Homepage": "https://ziningzhu.github.io",
+    "Positions": "PhD, interns",
+    "Requirements": "",
+    "How to Reach out": "Email",
+    "@": ""
+  },
+  {
+    "University": "Stevens Institute of Technology",
+    "Faculty": "Denghui Zhang",
+    "Research Interests": "DM/AI/NLP, LLM and social science",
+    "Notes": "2026 Fall",
+    "Homepage": "https://zhangdenghui.site/",
+    "Positions": "1-2 PhDs, multiple interns",
+    "Requirements": "TOEFL/IELTS/Duolingo, GRE required",
+    "How to Reach out": "Email",
+    "@": ""
+  },
+  {
+    "University": "Stevens Institute of Technology",
+    "Faculty": "Zining Zhu",
+    "Research Interests": "NLP, Explainable AI, AI for research",
+    "Notes": "25/26 Fall",
+    "Homepage": "https://ziningzhu.github.io/",
+    "Positions": "1 PhD",
+    "Requirements": "",
+    "How to Reach out": "Email",
+    "@": ""
+  }
+]

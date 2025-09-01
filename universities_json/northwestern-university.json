@@ -1,0 +1,57 @@
+[
+  {
+    "University": "Northwestern University",
+    "Faculty": "Han Liu",
+    "Research Interests": "AI/ML, Machine Learning, Foundation Models, Robotics, AI for Science",
+    "Notes": "26 Fall",
+    "Homepage": "http://magics.cs.northwestern.edu/index.html",
+    "Positions": "Multiple PhDs/interns",
+    "Requirements": "",
+    "How to Reach out": "Email",
+    "@": ""
+  },
+  {
+    "University": "Northwestern University",
+    "Faculty": "Manling Li",
+    "Research Interests": "AI/ML, Multimodal Foundation Models, NLP, CV, Robotics",
+    "Notes": "26 Fall",
+    "Homepage": "limanling.github.io",
+    "Positions": "Multiple PhDs/interns",
+    "Requirements": "",
+    "How to Reach out": "Email",
+    "@": ""
+  },
+  {
+    "University": "Northwestern University",
+    "Faculty": "Ruohan Zhang",
+    "Research Interests": "Robotics, robot learning, cognitive science, human-robot interaction, perception, art",
+    "Notes": "26 Fall",
+    "Homepage": "ai.stanford.edu/~zharu",
+    "Positions": "Multiple PhDs/interns",
+    "Requirements": "",
+    "How to Reach out": "Email",
+    "@": "CV, Transcript, Research Interest"
+  },
+  {
+    "University": "Northwestern University",
+    "Faculty": "Yiping Lu",
+    "Research Interests": "scaling law of AI, ML Thoery, Sequential Monte Carlo for LLM/Diffusion Model, Ai for Physics and Chemsitry",
+    "Notes": "26 Spring/Fall",
+    "Homepage": "https://scale-lab-northwestern.github.io/",
+    "Positions": "Multiple PhDs/interns",
+    "Requirements": "",
+    "How to Reach out": "Email",
+    "@": "CV, Transcript"
+  },
+  {
+    "University": "Northwestern University",
+    "Faculty": "Kaize Ding",
+    "Research Interests": "Reliable ML, Data-Efficient Leanring, AI for healthcare, environmental science",
+    "Notes": "26 Fall",
+    "Homepage": "https://kaize0409.github.io/",
+    "Positions": "1-3 PhDs, interns",
+    "Requirements": "",
+    "How to Reach out": "Email",
+    "@": ""
+  }
+]

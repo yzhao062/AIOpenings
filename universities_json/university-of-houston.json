@@ -1,0 +1,46 @@
+[
+  {
+    "University": "University of Houston",
+    "Faculty": "Jingchao Ni",
+    "Research Interests": "Machine Learning, Data Mining, AI for Time Series (with LVMs/LLMs/LMMs/agents)",
+    "Notes": "26 Spring / Fall",
+    "Homepage": "https://nijingchao.github.io/",
+    "Positions": "1-2 PhDs with RA/TA",
+    "Requirements": "TOEFL or IELTS, no GRE.",
+    "How to Reach out": "Email",
+    "@": ""
+  },
+  {
+    "University": "University of Houston",
+    "Faculty": "Jinyang Liu",
+    "Research Interests": "High-performance Computing, Data Compression, AI for Science",
+    "Notes": "25 Spring / Fall",
+    "Homepage": "https://nijingchao.github.io/",
+    "Positions": "2-3 PhDs with RA/TA",
+    "Requirements": "TOEFL or IELTS, no GRE.",
+    "How to Reach out": "Email",
+    "@": ""
+  },
+  {
+    "University": "University of Houston",
+    "Faculty": "Jianyi Yang",
+    "Research Interests": "Trustworthy AI, Reinforcement Learning, LLMs",
+    "Notes": "25 Spring/Fall",
+    "Homepage": "https://jyang-ai.github.io",
+    "Positions": "2-3 RAs / Interns",
+    "Requirements": "TOEFL or IELTS, no GRE",
+    "How to Reach out": "Email",
+    "@": ""
+  },
+  {
+    "University": "University of Houston",
+    "Faculty": "Chengming Zhang",
+    "Research Interests": "ML System, large scale LLM, multimodal, GPU optimization",
+    "Notes": "2025 Spring / Fall",
+    "Homepage": "https://chengmingzh8.github.io/",
+    "Positions": "2-3 PhDs",
+    "Requirements": "TOEFL, no GRE requirement",
+    "How to Reach out": "Email",
+    "@": ""
+  }
+]

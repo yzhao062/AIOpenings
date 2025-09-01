@@ -1,0 +1,68 @@
+[
+  {
+    "University": "University of North Carolina at Chapel Hill",
+    "Faculty": "Zhun Deng",
+    "Research Interests": "machine learning, learning theory, AI ethics",
+    "Notes": "2025 Spring/Fall",
+    "Homepage": "",
+    "Positions": "1 PhD RA",
+    "Requirements": "TOEFL, GRE Preferred",
+    "How to Reach out": "Email",
+    "@": ""
+  },
+  {
+    "University": "University of North Carolina at Chapel Hill",
+    "Faculty": "Sishuai Gong",
+    "Research Interests": "Operating System; System Reliability & Security; Program Analysis; Machine Learning for Systems; Verification; Testing",
+    "Notes": "26 Spring, Fall",
+    "Homepage": "https://sishuaigong.github.io/",
+    "Positions": "1-3 PhD with RA/TA",
+    "Requirements": "",
+    "How to Reach out": "Email",
+    "@": "CV, transcript, Research interest and experience"
+  },
+  {
+    "University": "University of North Carolina at Chapel Hill",
+    "Faculty": "Mingyu Ding",
+    "Research Interests": "Robotics, Robot Learning, Embodied AI, 3D Vision, Graphics, (Multimodal) Language Models",
+    "Notes": "26 Fall",
+    "Homepage": "https://dingmyu.github.io/",
+    "Positions": "2 PhDs, interns",
+    "Requirements": "TOEFL or IELTS, no GRE.",
+    "How to Reach out": "Email",
+    "@": ""
+  },
+  {
+    "University": "University of North Carolina at Chapel Hill",
+    "Faculty": "Chudi Zhong",
+    "Research Interests": "Trustworthy AI",
+    "Notes": "25 Fall",
+    "Homepage": "https://chudizhong.github.io/",
+    "Positions": "1-3 PhDs",
+    "Requirements": "TOEFL or IELTS, no GRE",
+    "How to Reach out": "Email",
+    "@": ""
+  },
+  {
+    "University": "University of North Carolina at Chapel Hill",
+    "Faculty": "Huaxiu Yao",
+    "Research Interests": "Foundation Models (LLM/VLM), Reasoning, Alignment, AI Agent, Medical AI, Robot Learning (VLA)",
+    "Notes": "2026 Fall",
+    "Homepage": "https://www.huaxiuyao.io/",
+    "Positions": "3 PhDs + Interns",
+    "Requirements": "TOEFL, no GRE requirement",
+    "How to Reach out": "Email",
+    "@": ""
+  },
+  {
+    "University": "University of North Carolina at Chapel Hill",
+    "Faculty": "Ziping Xu",
+    "Research Interests": "Reinforcement Learning, Mobile Health, Machine Learning Theory",
+    "Notes": "2026 Fall",
+    "Homepage": "https://zipingxu.github.io",
+    "Positions": "1-2 PhDs + Interns",
+    "Requirements": "TOEFL, no GRE requirement",
+    "How to Reach out": "Email",
+    "@": "CV, Transcript"
+  }
+]

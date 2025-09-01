@@ -1,0 +1,46 @@
+[
+  {
+    "University": "University of Utah",
+    "Faculty": "Guanhong Tao",
+    "Research Interests": "ML security/privacy, ML for cybersecurity",
+    "Notes": "2025 Spring / Fall",
+    "Homepage": "tao.aisec.world",
+    "Positions": "1 PhD RA",
+    "Requirements": "TOEFL/IELTS/Duolingo, no GRE requirement",
+    "How to Reach out": "Email",
+    "@": ""
+  },
+  {
+    "University": "University of Utah",
+    "Faculty": "Yue Jiang",
+    "Research Interests": "Human Computer Interaction (UI understanding and generation, eye tracking), Computer Vision, Multimodal Model, Vision Language Model",
+    "Notes": "2026 Spring / Fall",
+    "Homepage": "https://yuejiang-nj.github.io/",
+    "Positions": "1 PhD with RA/TA",
+    "Requirements": "TOEFL/IELTS/Duolingo, no GRE requirement",
+    "How to Reach out": "Email",
+    "@": ""
+  },
+  {
+    "University": "University of Utah",
+    "Faculty": "Weiyu Liu",
+    "Research Interests": "Robotics, Robot Learning, Manipulation, Planning, Embodied AI, Natural Language Processing, Computer Vision",
+    "Notes": "2026 Fall",
+    "Homepage": "https://www.weiyuliu.com/",
+    "Positions": "2 PhD with RA/TA",
+    "Requirements": "TOEFL/IELTS, no GRE requirement",
+    "How to Reach out": "Email",
+    "@": ""
+  },
+  {
+    "University": "University of Utah",
+    "Faculty": "Fuheng Zhao",
+    "Research Interests": "LLM for Data Management, Data Stream, Approximate Query",
+    "Notes": "26 Fall",
+    "Homepage": "https://zhaofuheng.github.io/",
+    "Positions": "2 PhDs with RA/TA",
+    "Requirements": "",
+    "How to Reach out": "Email",
+    "@": ""
+  }
+]

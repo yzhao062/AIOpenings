@@ -1,0 +1,57 @@
+[
+  {
+    "University": "National University of Singapore",
+    "Faculty": "Wenqi Jiang",
+    "Research Interests": "Systems for ML, Database, Computer Architecture, RAG, vector search",
+    "Notes": "26 Fall",
+    "Homepage": "https://wenqijiang.github.io/",
+    "Positions": "multiple PhD positions",
+    "Requirements": "",
+    "How to Reach out": "Email",
+    "@": ""
+  },
+  {
+    "University": "National University of Singapore",
+    "Faculty": "Dianbo Liu",
+    "Research Interests": "AI scientist, creativity of LLM",
+    "Notes": "2026 Spring / Fall",
+    "Homepage": "www.cogAI4Sci.com",
+    "Positions": "4 PhD , 1 postdoc, 4 RAs/interns",
+    "Requirements": "TOEFL or IELTS, no GRE",
+    "How to Reach out": "Email",
+    "@": ""
+  },
+  {
+    "University": "National University of Singapore",
+    "Faculty": "Jiaheng Zhang",
+    "Research Interests": "Blockchain and crypto, LLM security and privacy, applied cryptography, ZKP.",
+    "Notes": "25 Spring / 25 Fall / 26 Spring",
+    "Homepage": "zjhzjh123.github.io",
+    "Positions": "Fellowship/RA",
+    "Requirements": "TOEFL/IELTS",
+    "How to Reach out": "Email",
+    "@": ""
+  },
+  {
+    "University": "National University of Singapore",
+    "Faculty": "Peichen Zhong",
+    "Research Interests": "AI for Science in Materials & Chemistry (geometric DL, diffusion/flow models, agentic AI in science)",
+    "Notes": "2026 Fall/Spring",
+    "Homepage": "http://zhongpc.github.io/",
+    "Positions": "1-2 PhD with RA; 1 postdoc; NUS offers prestigious fellowships to offer holders from top universities.",
+    "Requirements": "TOEFL/IELTS, GRE is optional but preferred;",
+    "How to Reach out": "Email",
+    "@": "CV, Research Interest"
+  },
+  {
+    "University": "National University of Singapore",
+    "Faculty": "Junyuan Hong",
+    "Research Interests": "LLM, AI for Health (ADRD), Responsible AI, AI + Cognitive Science",
+    "Notes": "26 Fall",
+    "Homepage": "https://jyhong.gitlab.io/",
+    "Positions": "1-2 PhD with scholarship/RA, multiple interns",
+    "Requirements": "TOEFL (85+) or IELTS (6+), GRE",
+    "How to Reach out": "Fill the form",
+    "@": "Google form: https://forms.gle/knkYe7naeeWYKf4v6"
+  }
+]

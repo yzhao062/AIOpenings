@@ -1,0 +1,46 @@
+[
+  {
+    "University": "University of Illinois Urbana-Champaign",
+    "Faculty": "Jiaxuan You",
+    "Research Interests": "LLM agents, graph deep learning, AI4Science",
+    "Notes": "25/26 Fall",
+    "Homepage": "https://cs.stanford.edu/~jiaxuan/",
+    "Positions": "Multiple PhDs with RA/TA, research MS with TA, interns",
+    "Requirements": "TOEFL, no GRE requirement",
+    "How to Reach out": "Email",
+    "@": "CV, Transcript, Research Interest"
+  },
+  {
+    "University": "University of Illinois Urbana-Champaign",
+    "Faculty": "Ge Liu",
+    "Research Interests": "Generative models, protein design (from Nobel prize group), AI4Science",
+    "Notes": "25/26 Fall",
+    "Homepage": "https://www.mit.edu/~geliu/",
+    "Positions": "Multiple PhDs with RA/TA, research MS with TA, interns",
+    "Requirements": "TOEFL, no GRE requirement",
+    "How to Reach out": "Email",
+    "@": "CV, Transcript, Research Interest"
+  },
+  {
+    "University": "University of Illinois Urbana-Champaign",
+    "Faculty": "Yaoyao Liu",
+    "Research Interests": "Continual learning, few-shot learning, semi-supervised learning, generative models, 3D geometry models, and medical imaging.",
+    "Notes": "25 Spring / Fall",
+    "Homepage": "https://yaoyaoliu.web.illinois.edu/",
+    "Positions": "1-2 PhDs with RA/TA",
+    "Requirements": "",
+    "How to Reach out": "Email",
+    "@": "CV, Transcript, Research Interest"
+  },
+  {
+    "University": "University of Illinois Urbana-Champaign",
+    "Faculty": "Ismini Lourentzou",
+    "Research Interests": "Mulitmodal AI, Embodied AI, VLMs/LLMs (reasoning, segmentation, etc.), 3D (generation, reconstruction, reasoning). Not recruiting in AI4H",
+    "Notes": "2026 Fall",
+    "Homepage": "https://plan-lab.github.io/",
+    "Positions": "1-2 PhDs (iSchool, CS, ECE, Informatics Phd programs)",
+    "Requirements": "no GRE requirement, TOEFL or IELTS",
+    "How to Reach out": "Email (https://isminoula.github.io/students.html)",
+    "@": "https://plan-lab.github.io/contact/"
+  }
+]

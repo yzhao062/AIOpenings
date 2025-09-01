@@ -1,0 +1,46 @@
+[
+  {
+    "University": "University of California, Santa Barbara",
+    "Faculty": "Yuheng Bu",
+    "Research Interests": "Trustworthy AI, learning theory, information theory",
+    "Notes": "26 Fall",
+    "Homepage": "https://buyuheng.github.io/",
+    "Positions": "1-2 PhDs with RA/TA, interns",
+    "Requirements": "",
+    "How to Reach out": "Email",
+    "@": "CV, Transcript, Research Interest"
+  },
+  {
+    "University": "University of California, Santa Barbara",
+    "Faculty": "Xin Eric Wang",
+    "Research Interests": "AI, ML, NLP, Computer Vision",
+    "Notes": "26 Fall",
+    "Homepage": "https://eric-xw.github.io",
+    "Positions": "1-2 PhDs with RA/TA, interns",
+    "Requirements": "TOEFL or IELTS",
+    "How to Reach out": "Email",
+    "@": "CV, Transcript, Research Interest"
+  },
+  {
+    "University": "University of California, Santa Barbara",
+    "Faculty": "Wenbo Guo",
+    "Research Interests": "RL-based LLM reasoning; Agentic AI for SE and security",
+    "Notes": "26 Fall",
+    "Homepage": "https://henrygwb.github.io/",
+    "Positions": "1-2 PhDs with RA/TA, interns",
+    "Requirements": "",
+    "How to Reach out": "Email",
+    "@": "CV, Transcript"
+  },
+  {
+    "University": "University of California, Santa Barbara",
+    "Faculty": "Zhen Dong",
+    "Research Interests": "LLM/VLM Post-training, Efficient AI, AI Agents, AI4Science, Robotics, VideoGen",
+    "Notes": "26 Fall",
+    "Homepage": "https://dong-zhen.com/",
+    "Positions": "Multiple PhD, MS, Interns",
+    "Requirements": "TOEFL or IELTS",
+    "How to Reach out": "Email",
+    "@": "CV, Transcript, Research Interest"
+  }
+]

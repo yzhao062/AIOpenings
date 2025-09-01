@@ -1,0 +1,46 @@
+[
+  {
+    "University": "George Mason University",
+    "Faculty": "Lei Yang",
+    "Research Interests": "AI for Science including healthcare and geophysics",
+    "Notes": "2025 Sping / Fall",
+    "Homepage": "https://leiyang0416.github.io/",
+    "Positions": "2 PhD RA/TA",
+    "Requirements": "TOEFL, no GRE requirement",
+    "How to Reach out": "Email",
+    "@": ""
+  },
+  {
+    "University": "George Mason University",
+    "Faculty": "Ziyu Yao",
+    "Research Interests": "LLM Reasoning, Interpretability, LLM Agent",
+    "Notes": "26 Fall",
+    "Homepage": "https://ziyuyao.org/",
+    "Positions": "2-3 PhDs with RA/TA",
+    "Requirements": "TOEFL or IELTS, no GRE.",
+    "How to Reach out": "Email",
+    "@": "CV, transcript, research statement, paper reviews"
+  },
+  {
+    "University": "George Mason University",
+    "Faculty": "Mingrui Liu",
+    "Research Interests": "Machine Learning Theory, Optimization, Deep Learning, Foundation Models",
+    "Notes": "26 Spring, 26 Fall",
+    "Homepage": "https://mingrliu.github.io",
+    "Positions": "1-2 PhDs with RA/TA",
+    "Requirements": "TOEFL or IELTS, no GRE.",
+    "How to Reach out": "Email",
+    "@": "CV, Transcript"
+  },
+  {
+    "University": "George Mason University",
+    "Faculty": "Yicheng Zhang",
+    "Research Interests": "AR/VR Security, System Security, GPU Security",
+    "Notes": "26 Spring, 26 Fall",
+    "Homepage": "https://yichez.site/",
+    "Positions": "2-3 PhDs with RA/TA",
+    "Requirements": "TOEFL >= 80 or IELTS >= 6.5, no GRE.",
+    "How to Reach out": "Email",
+    "@": "CV, Transcript, Research Interest"
+  }
+]

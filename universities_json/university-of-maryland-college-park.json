@@ -1,0 +1,35 @@
+[
+  {
+    "University": "University of Maryland, College Park",
+    "Faculty": "Runzhou Tao",
+    "Research Interests": "Quantum Computing, Programming Languages, Operating Systems, Formal Verification",
+    "Notes": "26 Fall",
+    "Homepage": "https://runzhoutao.github.io",
+    "Positions": "",
+    "Requirements": "",
+    "How to Reach out": "Email",
+    "@": ""
+  },
+  {
+    "University": "University of Maryland, College Park",
+    "Faculty": "Fumeng Yang",
+    "Research Interests": "HCI & Visualization: model explanation, uncertainty communication, decision-making, data and AI literacy, trust",
+    "Notes": "25 Fall",
+    "Homepage": "",
+    "Positions": "1-2 PhDs, visiting students, interns",
+    "Requirements": "TOEFL/IELTS, GRE optional",
+    "How to Reach out": "Email",
+    "@": "CV, a paragraph about research interests"
+  },
+  {
+    "University": "University of Maryland, College Park",
+    "Faculty": "Kaiqing Zhang",
+    "Research Interests": "Reinforcement Learning, Game Theory, Generative AI, Agents, Robotics",
+    "Notes": "26 Spring/Fall",
+    "Homepage": "https://kzhang66.github.io/",
+    "Positions": "2-3 PhDs, visiting students, interns",
+    "Requirements": "",
+    "How to Reach out": "Email",
+    "@": "CV, Transcript, Research Interest"
+  }
+]

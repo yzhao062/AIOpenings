@@ -1,0 +1,24 @@
+[
+  {
+    "University": "University of North Carolina at Charlotte",
+    "Faculty": "Jinzhen Wang",
+    "Research Interests": "High-performance Computing, Data reduction and compression, AI+System",
+    "Notes": "25Fall/26Spring",
+    "Homepage": "https://sites.google.com/charlotte.edu/hpdilab/hpdi-lab",
+    "Positions": "1 - 2 PhDs with RA",
+    "Requirements": "TOEFL/IELTS, GRE needed but no min score",
+    "How to Reach out": "Email",
+    "@": ""
+  },
+  {
+    "University": "University of North Carolina at Charlotte",
+    "Faculty": "Guanchu Wang",
+    "Research Interests": "Trustworthy AI (for LLM), Explainable AI (for LLM), LLM safety, LLM reasoning",
+    "Notes": "25 Fall/26 Spring/26 Fall",
+    "Homepage": "https://guanchuwang.github.io/",
+    "Positions": "2 PhDs with RA",
+    "Requirements": "TOEFL or IELTS",
+    "How to Reach out": "Email",
+    "@": "CV, Transcript, paper/demo if applicable"
+  }
+]

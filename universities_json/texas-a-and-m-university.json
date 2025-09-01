@@ -1,0 +1,79 @@
+[
+  {
+    "University": "Texas A&M University",
+    "Faculty": "Zhiyuan Yu",
+    "Research Interests": "Trustworthy MLSys; Multimodal generative AI; Usable and human-centric security; Intelligent healthcare systems",
+    "Notes": "26 Spring / Fall",
+    "Homepage": "https://zhiyuanyu.org",
+    "Positions": "1-2 PhD with RA/TA",
+    "Requirements": "",
+    "How to Reach out": "Email",
+    "@": ""
+  },
+  {
+    "University": "Texas A&M University",
+    "Faculty": "Zhengzhong Tu",
+    "Research Interests": "Multimodal LLM, 3D Vision, Generative AI, Autonomous Driving, Efficiency/MLSys",
+    "Notes": "2025 Spring / Fall",
+    "Homepage": "https://vztu.github.io/",
+    "Positions": "2 PhD RAs/TAs, interns",
+    "Requirements": "TOEFL, no GRE requirement",
+    "How to Reach out": "Email",
+    "@": ""
+  },
+  {
+    "University": "Texas A&M University",
+    "Faculty": "Kuan-Hao Huang",
+    "Research Interests": "Trustworthy NLP, Multilingual NLP, Multimodal LLMs, Knolwedge Extraction",
+    "Notes": "26 Fall",
+    "Homepage": "https://khhuang.me/",
+    "Positions": "1-2 PhDs with RA, interns",
+    "Requirements": "",
+    "How to Reach out": "Email",
+    "@": ""
+  },
+  {
+    "University": "Texas A&M University",
+    "Faculty": "Yu Zhang",
+    "Research Interests": "NLP (LLMs, scientific/biomedical text mining), data mining, AI for science",
+    "Notes": "25 Spring / Fall",
+    "Homepage": "",
+    "Positions": "2 PhDs with RA",
+    "Requirements": "TOEFL, no GRE requirement",
+    "How to Reach out": "Email",
+    "@": ""
+  },
+  {
+    "University": "Texas A&M University",
+    "Faculty": "Shuiwang Ji",
+    "Research Interests": "AI for science, machine learning, language models and agents for science",
+    "Notes": "25 Fall/26 Spring",
+    "Homepage": "https://people.tamu.edu/~sji/",
+    "Positions": "2 PhDs with RA",
+    "Requirements": "",
+    "How to Reach out": "Email",
+    "@": "CV, transcript"
+  },
+  {
+    "University": "Texas A&M University",
+    "Faculty": "Zhiwen Fan",
+    "Research Interests": "3D Multimodal Models (3D VLM, 3D AIGC)",
+    "Notes": "25 Fall/26 Spring",
+    "Homepage": "https://zhiwenfan.github.io/",
+    "Positions": "1-2 PhD with RA, or remote interns",
+    "Requirements": "TOEFL>90, 3D or VLM backgrounds",
+    "How to Reach out": "Email",
+    "@": "CV, Brief Statement of Interest in Joining My Group"
+  },
+  {
+    "University": "Texas A&M University",
+    "Faculty": "Yiwei Lyu",
+    "Research Interests": "Robotics, Safe Control and Verification, Multi-Agent Systems, Human-Robot Interaction",
+    "Notes": "25 Spring / 26 Fall",
+    "Homepage": "http://www.cs.cmu.edu/~yiweilyu/",
+    "Positions": "2 PhDs with RA/TA, Interns",
+    "Requirements": "TOEFL or IELTS",
+    "How to Reach out": "Email",
+    "@": "CV, transcript, research interests, papers if applicable"
+  }
+]
